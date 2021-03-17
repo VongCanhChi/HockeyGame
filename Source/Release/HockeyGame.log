@@ -1,0 +1,24 @@
+﻿  Ball.cpp
+  Font.cpp
+D:\Lập trình hướng đối tượng\18120293_18120296\Source\Font.cpp(13,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+  HockeyGame.cpp
+  Menu.cpp
+  Paddle.cpp
+  Sound.cpp
+  Sprite.cpp
+D:\Lập trình hướng đối tượng\18120293_18120296\Source\Font.cpp(13,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Lập trình hướng đối tượng\18120293_18120296\Source\Sprite.cpp(12,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Lập trình hướng đối tượng\18120293_18120296\Source\Sprite.cpp(12,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Lập trình hướng đối tượng\18120293_18120296\Source\Sprite.cpp(24,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Lập trình hướng đối tượng\18120293_18120296\Source\Sprite.cpp(24,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Lập trình hướng đối tượng\18120293_18120296\Source\Sprite.cpp(29,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Lập trình hướng đối tượng\18120293_18120296\Source\Sprite.cpp(29,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\Lập trình hướng đối tượng\18120293_18120296\Source\Font.cpp(16): warning C4715: 'font::InIt': not all control paths return a value
+D:\Lập trình hướng đối tượng\18120293_18120296\Source\Ball.cpp(10): warning C4715: 'Ball::InIt': not all control paths return a value
+D:\Lập trình hướng đối tượng\18120293_18120296\Source\Paddle.cpp(9): warning C4715: 'Paddle::InIt': not all control paths return a value
+  All 162 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HockeyGame.vcxproj -> D:\Lập trình hướng đối tượng\18120293_18120296\Source\Release\HockeyGame.exe
